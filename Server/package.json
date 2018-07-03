@@ -1,0 +1,14 @@
+{
+  "name": "NodejsWebSock",
+  "version": "0.0.0",
+  "description": "NodejsWebSock",
+  "main": "app.js",
+  "author": {
+    "name": "wow0815",
+    "email": ""
+  },
+  "dependencies": {
+    "bson": "^3.0.0",
+    "websocket": "^1.0.26"
+  }
+}
